@@ -1,0 +1,42 @@
+name: MenuAPP
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/welcome.png
+    - assets/comunidad.png
+    - assets/prueba.png
+    - assets/fondo.png
+    - assets/food.png
+    - assets/up.png
+    - assets/postre.png
+    - assets/fuerte.png
+    - assets/entrantes.png
+    - assets/bebidas.png
+    - assets/entradaf.jpg
+    - assets/bandeja.jpg
+    - assets/carne.jpg
